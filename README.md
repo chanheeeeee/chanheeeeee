@@ -37,5 +37,5 @@
 <div>	
   <h3>✏️ Solved</h3>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=erica0126)](https://solved.ac/erica0126/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanheeeeee)](https://solved.ac/chanheeeeee/)
 </div>
