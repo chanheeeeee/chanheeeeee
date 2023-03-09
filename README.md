@@ -2,7 +2,7 @@
 <div>	
   <h3>💻 GitHub Stats</h3>
   
-  ![Chanhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooriim&show_icons=true&theme=transparent&title_color=4f6aa9&text_color=798fc2&bg_color=30,accbee,e7f0fd&show_icons=false)  
+  ![Chanhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanhee&show_icons=true&theme=transparent&title_color=4f6aa9&text_color=798fc2&bg_color=30,accbee,e7f0fd&show_icons=false)  
 </div>
 <div>
   <h3>📂 Portfolio (Click me!)</h3>
