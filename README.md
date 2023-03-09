@@ -6,7 +6,7 @@
 </div>
 <div>
   <h3>📂 Portfolio (Click me!)</h3>
-  <a href="https://agreeable-freckle-78c.notion.site/722fb895c1d743e485555132e6d98eed">
+  <a href="https://bald-nail-00a.notion.site/Backend-Programmer-8c8f868a6d544cc0ad7bbf0cc8458a18">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
 </div>
